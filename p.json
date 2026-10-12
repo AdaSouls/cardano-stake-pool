@@ -1,0 +1,7 @@
+{
+  "name": "AdaSouls",
+  "description": "AdaSouls builds infrastructure for AI agents that own, transact, build reputation and act autonomously. Cardano stake pool since 2020 (formerly FALCO), 340+ blocks minted. Stake with us to support the agent economy.",
+  "ticker": "SOULS",
+  "homepage": "https://adasouls.io",
+  "extended": "https://raw.githubusercontent.com/AdaSouls/cardano-stake-pool/main/extended.json"
+}

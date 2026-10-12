@@ -1,0 +1,31 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/AdaSouls/cardano-stake-pool/main/icon_64x64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/AdaSouls/cardano-stake-pool/main/logo.png",
+    "location": "Melbourne, Australia",
+    "social": {
+      "twitter_handle": "AdaSouls",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "@AdaSouls",
+      "twitch_handle": "",
+      "discord_handle": "vwjmw5BkQb",
+      "github_handle": "AdaSouls",
+      "medium_handle": "@adasouls"
+    },
+    "company": {
+      "name": "AdaSouls",
+      "addr": "",
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "about": {
+      "me": "AdaSouls builds the infrastructure that lets AI agents hold identity and reputation, manage wallets and make payments across any financial rail, without custody of funds or private keys.",
+      "server": "Block producer and relays hosted in Europe, running the latest cardano-node.",
+      "company": "AdaSouls develops ALMA, an open protocol for agent identity and verifiable reputation, and operates the SOULS stake pool on Cardano, formerly Falcon Cardano Stakepool (FALCO), running since 2020."
+    }
+  },
+  "my-pool-ids": [
+    "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353"
+  ]
+}
